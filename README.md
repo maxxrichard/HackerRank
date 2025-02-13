@@ -5,10 +5,6 @@ This repository contains my solutions to various **Artificial Intelligence** cha
 
 Each challenge includes its **difficulty level**, **success rate**, and **solution implementation**.
 
-## My HackerRank Statistics
-- **Total Points:** 106.7
-- **Rank:** 19598
-
 ## Challenges and Solutions
 
 | Challenge Name | Difficulty | Success Rate | Solution |
