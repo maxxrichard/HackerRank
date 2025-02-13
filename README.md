@@ -35,16 +35,6 @@ Each challenge includes its **difficulty level**, **success rate**, and **soluti
 | Matching Questions with their Answers | Hard | 75.42% |  |
 | Missing Stock Prices | Hard | 23.28% |  |
 
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/maxxrichard/HackerRank.git
-   cd HackerRank
-   ```
-2. Navigate to the `solutions/` folder and run any script:
-   ```bash
-   python solutions/multiple_linear_regression.py
-   ```
 
 ## Contributions
 Feel free to contribute by optimizing solutions or adding alternative approaches! 🚀
