@@ -14,7 +14,7 @@ Each challenge includes its **difficulty level**, **success rate**, and **soluti
 | Stock Predictions | Easy | 27.51% |  |
 | Basic Statistics Warmup | Easy | 85.85% |  |
 | Correlation and Regression Lines - A Quick Recap #1 | Medium | 67.99% |  |
-| Correlation and Regression Lines - A Quick Recap #2 | Medium | 82.75% | [Solution](solutions/correlation_2.py) |
+| Correlation and Regression Lines - A Quick Recap #2 | Medium | 82.75% |  |
 | Correlation and Regression Lines - A Quick Recap #3 | Medium | 86.42% |  |
 | Correlation and Regression Lines - A Quick Recap #4 | Medium | 85.04% |  |
 | Correlation and Regression Lines - A Quick Recap #5 | Medium | 82.67% |  |
@@ -24,7 +24,7 @@ Each challenge includes its **difficulty level**, **success rate**, and **soluti
 | Stack Exchange Question Classifier | Medium | 84.01% |  |
 | Time Series: Predict the Web Traffic | Medium | 23.18% |  |
 | Forecasting Passenger Traffic | Medium | 14.47% |  |
-| Day 6: Multiple Linear Regression: Predicting House Prices | Expert | 85.71% | |
+| Day 6: Multiple Linear Regression: Predicting House Prices | Expert | 85.71% | [Solution](solutions/predict_house_price.py) |
 | Day 5: Computing the Correlation | Expert | 94.71% |  |
 | Shakespeare Cuts It Short | Expert | 9.32% |  |
 | Dota 2 Game Prediction | Expert | 31.52% |  |
