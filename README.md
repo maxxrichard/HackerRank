@@ -9,7 +9,7 @@ Each challenge includes its **difficulty level**, **success rate**, and **soluti
 
 | Challenge Name | Difficulty | Success Rate | Solution |
 |---------------|------------|--------------|----------|
-| Polynomial Regression: Office Prices | Easy | 75.21% | Solution](solutions/office_price.py) |
+| Polynomial Regression: Office Prices | Easy | 75.21% | [Solution](solutions/office_price.py) |
 | Laptop Battery Life | Easy | 84.77% |  |
 | Stock Predictions | Easy | 27.51% |  |
 | Basic Statistics Warmup | Easy | 85.85% |  |
