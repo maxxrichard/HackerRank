@@ -9,7 +9,7 @@ Each challenge includes its **difficulty level**, **success rate**, and **soluti
 
 | Challenge Name | Difficulty | Success Rate | Solution |
 |---------------|------------|--------------|----------|
-| Polynomial Regression: Office Prices | Easy | 75.21% |  |
+| Polynomial Regression: Office Prices | Easy | 75.21% | [Solution](solution/office_price.py) |
 | Laptop Battery Life | Easy | 84.77% |  |
 | Stock Predictions | Easy | 27.51% |  |
 | Basic Statistics Warmup | Easy | 85.85% |  |
@@ -24,13 +24,13 @@ Each challenge includes its **difficulty level**, **success rate**, and **soluti
 | Stack Exchange Question Classifier | Medium | 84.01% |  |
 | Time Series: Predict the Web Traffic | Medium | 23.18% |  |
 | Forecasting Passenger Traffic | Medium | 14.47% |  |
-| Day 6: Multiple Linear Regression: Predicting House Prices | Expert | 85.71% | [Solution](solutions/predict_house_price.py) |
+| Day 6: Multiple Linear Regression: Predicting House Prices | Expert | 85.71% | [Solution](solution/predict_house_price.py) |
 | Day 5: Computing the Correlation | Expert | 94.71% |  |
 | Shakespeare Cuts It Short | Expert | 9.32% |  |
 | Dota 2 Game Prediction | Expert | 31.52% |  |
 | Predict the Missing Grade | Expert | 80.00% |  |
-| Day 7: Temperature Predictions | Hard | 63.65% | [Solution](solutions/temperature_prediction.py) |
-| Quora Answer Classifier | Hard | 45.80% | [Solution](solutions/quora_classifier.py) |
+| Day 7: Temperature Predictions | Hard | 63.65% | [Solution](solution/temperature_prediction.py) |
+| Quora Answer Classifier | Hard | 45.80% | [Solution](solution/quora_classifier.py) |
 | Craigslist Post Classifier: Identify the Category | Hard | 33.13% |  |
 | Matching Questions with their Answers | Hard | 75.42% |  |
 | Missing Stock Prices | Hard | 23.28% |  |
