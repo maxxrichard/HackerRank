@@ -15,7 +15,7 @@ Each challenge includes its **difficulty level**, **success rate**, and **soluti
 | Basic Statistics Warmup | Easy | 85.85% |  |
 | Correlation and Regression Lines - A Quick Recap #1 | Medium | 67.99% |  |
 | Correlation and Regression Lines - A Quick Recap #2 | Medium | 82.75% |  |
-| Correlation and Regression Lines - A Quick Recap #3 | Medium | 86.42% |  |
+| Correlation and Regression Lines - A Quick Recap #3 | Medium | 86.42% | [Solution](solution/regression_3.py) |
 | Correlation and Regression Lines - A Quick Recap #4 | Medium | 85.04% |  |
 | Correlation and Regression Lines - A Quick Recap #5 | Medium | 82.67% |  |
 | Markov's Snakes And Ladders | Medium | 70.47% |  |
