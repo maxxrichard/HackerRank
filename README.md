@@ -34,6 +34,7 @@ Each challenge includes its **difficulty level**, **success rate**, and **soluti
 | Craigslist Post Classifier: Identify the Category | Hard | 33.13% |  |
 | Matching Questions with their Answers | Hard | 75.42% |  |
 | Missing Stock Prices | Hard | 23.28% |  |
+| Log Sequence of Customers | Amazon | - | [Solution](solution/log_count_customer.py) |
 
 
 ## Contributions
