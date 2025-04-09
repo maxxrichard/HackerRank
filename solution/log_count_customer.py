@@ -54,7 +54,7 @@ def find_freq(log:dict):
     print(f'Most common 3-page sequence is: {frequent}')
 
 
-#path = '/content/drive/MyDrive/Teaching/data.txt'
+#path = 'data.txt'
 #log = read_log(path)
 #print(log)
 
