@@ -35,6 +35,7 @@ Each challenge includes its **difficulty level**, **success rate**, and **soluti
 | Matching Questions with their Answers | Hard | 75.42% |  |
 | Missing Stock Prices | Hard | 23.28% |  |
 | Log Sequence of Customers | Amazon | - | [Solution](solution/log_count_customer.py) |
+| Spell Checker | Amazon | - | [Solution](solution/spell_checker.py) |
 
 
 ## Contributions
